@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sancreek&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Beastly&display=swap');
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* icon font */
+.hi-txt{
+    font-family: "Sancreek", serif;
+}
+/* HEADER TXT*/
+.horror-txt{
+    font-family: "Special Elite", system-ui;
+}
+
+.fear{
+      font-family: "Rubik Beastly", system-ui;
+
+}
+/* FONT SIZE */
+.fonts-1{
+    font-size: 100px;
+}
+
+
+/* paddings */
+.pt-50{
+    padding-top: 50px;
+}
+.pb-50{
+    padding-bottom: 50px;
+}
+
+/* bg primary color */
+:root{
+    --bs-danger-rgb: 241, 179, 152;
+    --bs-black-rgb: 33, 4, 6;
+    --bs-info-rgb: 179, 18, 31;
+    --bs-light-rgb: 217, 211, 196;
+}
+
+.bg-success {
+    
+    background-color: 27, 1, 6;
+}
